@@ -10,6 +10,9 @@ The dataset contains anonymized transaction features (V1–V28), transaction **A
 
 * `0` → Normal transaction
 * `1` → Fraudulent transaction
+* 
+The dataset used in this project is available on Kaggle:  https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+Download the dataset and place it in the same directory.
 
 ## Approach
 
